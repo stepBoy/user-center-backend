@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user-center-pro
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root
+    username: root
+    url: jdbc:mysql://192.168.200.130:3306/user_center_pro?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
